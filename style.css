@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+}
+#mainNav {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    transition: padding-top 0.3s, padding-bottom 0.3s;
+    font-weight: 700;
+    background: rgb(44,62,80) !important;
+    justify-content: flex-start;
+}
+.navbar-brand {
+    font-size: 1.75em;
+    transition: font-size 0.3s;
+}
+.container{
+    justify-content: flex-start;
+}
+.navbar-expand-lg {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+}
+.masthead-avatar{
+    width: 15rem;
+}
+.masthead-heading{
+    font-size: 4rem;
+        line-height: 3.5rem;
+}
+.masthead{
+    padding-top: calc(6rem + 104px);
+    padding-bottom: 6rem;
+    background: rgb(26,188,156) !important;
+}
+
+.page-section {
+    font-size: 3rem;
+    line-height: 2.5rem;
+}
+.h2{
+    font font-weight: 700px;
+    margin: 25px !important;
+
+
+}
+
+
+.ms-auto {
+    margin-left: auto !important;
+}
+.footer{
+    background: rgb(44,62,80);
+    
+}
+.copyright{
+    background-color: rgb(26,37,47);
+
+}
+.masthead{
+    background-color: rgb(26,188,156);
+}
+#about{
+    background: rgb(26,188,156);
+
+}
+.page-section-heading{
+
+
+    font-size: 3rem;
+    line-height: 2.5rem;
+}
+.text-secondary {
+    text: opacity 1px;
+}
